@@ -2,18 +2,25 @@
 
 # Code B 
 
-# Code O
+
+
 
 # Code C
 
 
 
 print("better stuff ")
-print("another new stuff")
+
+
+# Code E 
+#Code T
+
+# Code C
+print("This stuff is better")
+
 
 
 # Code D
 
 print("Yay")
 
-print("new stuff")
